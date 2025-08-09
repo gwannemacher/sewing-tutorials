@@ -11,6 +11,7 @@
 | Switch to zipper foot. Stitch down zipper tape.                                                                                                                            |  ![image](images/stitch-down-zipper-tape.png)  |
 | Grab edge of free end of zipper tape (youtube link to timestamp: https://www.youtube.com/watch?v=gNbrGVJfHZY&list=PLu1cm76qZgNLV24GBwBkkviuIuoVWReB7&index=35&t=549s)      |     ![image](images/grab-zipper-tape.png)      |
 | Fold over and finger press                                                                                                                                                 |         ![image](images/fold-over.png)         |
+| Topstitch near the edge of the zipper tape                                                                                                                                 |        ![image](images/top-stitch.png)         |
 | Open up and flip to the back                                                                                                                                               |       ![image](images/flip-to-back.png)        |
 | Grab left side of the sandwich and flip (youtube link to timestamp: https://www.youtube.com/watch?v=gNbrGVJfHZY&list=PLu1cm76qZgNLV24GBwBkkviuIuoVWReB7&index=35&t=549s)   |       ![image](images/left-sandwich.png)       |
 | Stitch left side of zipper tape but this time not too close to the zipper                                                                                                  | ![image](images/stitch-left-not-too-close.png) |
